@@ -1,4 +1,5 @@
-# D-Cinema Packaging — SMPTE DCP Bv2.1 Application Profile
+# SMPTE RDD 52 
+## D-Cinema Packaging - SMPTE DCP Bv2.1 Application Profile
 
 _This repository is public._ 
 
@@ -6,4 +7,4 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 ## Reporting issues
 
-Please report issues at <https://github.com/SMPTE/rdd52/issues> or at the 21DC Chairs <21dc-chair@smpte.org>
+Please report issues at <https://github.com/SMPTE/rdd52/issues> or at the 21DC Chairs <21dc-chair@smpte.org>.

@@ -1,5 +1,4 @@
-# SMPTE RDD 52 
-## D-Cinema Packaging - SMPTE DCP Bv2.1 Application Profile
+# SMPTE RDD 52, D-Cinema Packaging - SMPTE DCP Bv2.1 Application Profile
 
 _This repository is public._ 
 
